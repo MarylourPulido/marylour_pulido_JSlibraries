@@ -1,0 +1,24 @@
+{
+  "name": "marylour_pulido_jslibraries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "keywords": [],
+  "author": "Marylour Pulido ",
+  "license": "public",
+  "public": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.6.2",
+    "animejs": "^3.2.2",
+    "aos": "^2.3.4",
+    "granim": "^2.0.0",
+    "lightbox2": "^2.11.5",
+    "multiple.js": "^0.0.1"
+  }
+}
